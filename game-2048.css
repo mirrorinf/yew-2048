@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+:focus {
+    outline: none;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-family: monospace;
+    color: indianred;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+td.cell-0 {
+    background-color: cornsilk;
+}
+
+td.cell-1 {
+    background-color: bisque;
+}
+
+td.cell-2 {
+    background-color: wheat;
+}
+
+td.cell-4 {
+    background-color: burlywood;
+}
+
+td.cell-8 {
+    background-color: khaki;
+}
+
+td.cell-16 {
+    background-color: lightsalmon;
+}
+
+td.cell-32 {
+    background-color: tan;
+}
+
+td.cell-64 {
+    background-color: gold;
+}
+
+td.cell-128 {
+    background-color: tomato;
+}
+
+td.cell-258 {
+    background-color: orangered;
+}
+
+td.cell-256 {
+    background-color: crimson;
+}
+
+td.cell-512 {
+    background-color: red;
+}
+
+td.cell-1024 {
+    background-color: orchid;
+}
+
+td.cell-2048 {
+    background-color: blueviolet;
+}
